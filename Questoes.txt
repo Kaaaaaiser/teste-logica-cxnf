@@ -1,0 +1,24 @@
+1-A
+Resultado B - 20 
+Resultado A,B - 10 , 5
+
+1-B
+Resultado A, B, C - 10 , 10 , 10
+
+1-C
+Resultado A, B, C - 10 , 10 , 10
+
+1-D
+Resultado C - 50
+Resultado B , C- 10 , 50
+Resultado A, B, C - 30 , 10, 40 
+
+1-E
+Resultado A - 12
+Resultado A , B - 14 , 13
+
+1-F
+Resultado Z - 1
+Resultado X , Y, Z - 5, 6, 1 
+
+
